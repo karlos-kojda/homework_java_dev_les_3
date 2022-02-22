@@ -19,3 +19,8 @@ Habit 4: Programmer should have a consistent way to get in the "zone".
 It is time when programmer is just coding and swimming through that code and he lose track of time.
 This is a period of time when programmer is not interrupted by anybody else.
 If a programmer is interrupted, it is hard to get anything done.
+
+Habit 5: Always be learning new things and sharpening yourself,
+because you can be stuck in some code because of low knowledge.
+If a programmer is not really learning anything more, he become outdated.
+One of the key skills of programming is the ability to debug.
