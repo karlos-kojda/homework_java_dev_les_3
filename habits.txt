@@ -8,3 +8,8 @@ Habit 2: Do not ship a product if it is not completed.
 Programmers sometimes spend hours and hours to find some small bugs.
 As a programmer I have to keep my eye on the goal.
 Programmers should have good enviroment for work.
+
+Habit 3: Keep it simple.
+In programming are hundrets ways to get things done. 
+Every programmer do thind in different way.
+As a programmer I should write simple code which will be readable for everyone.
