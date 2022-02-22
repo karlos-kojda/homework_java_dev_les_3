@@ -3,3 +3,8 @@ Good exercise and good sleep are essential for any programmer. We should do some
 Next we should sit with our back straight because of a good posture. We should have a short break in some time. 
 He said that he has short break every 30 minutes.
 For lunch break we should go outside to get some sunshine on our skin.
+
+Habit 2: Do not ship a product if it is not completed.
+Programmers sometimes spend hours and hours to find some small bugs.
+As a programmer I have to keep my eye on the goal.
+Programmers should have good enviroment for work.
