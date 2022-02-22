@@ -13,3 +13,9 @@ Habit 3: Keep it simple.
 In programming are hundrets ways to get things done. 
 Every programmer do thind in different way.
 As a programmer I should write simple code which will be readable for everyone.
+
+Habit 4: Programmer should have a consistent way to get in the "zone".
+"Zone" is one of the most productive times for a programmer.
+It is time when programmer is just coding and swimming through that code and he lose track of time.
+This is a period of time when programmer is not interrupted by anybody else.
+If a programmer is interrupted, it is hard to get anything done.
