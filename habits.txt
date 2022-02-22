@@ -29,3 +29,8 @@ Habit 6: Collaboration is very important and quite common.
 If a programmer is stuck, an other programmer may have some ideas to solve problem.
 Programming is "team sport".
 Programming is not a solo activity.
+
+Habit 7: Programming may be a lonely activity.
+Programmer need to get used to it. He need to get used to spend much time alone.
+He said that programming may be one of the loneliest careers.
+I don't agree with him because when you work in office, you are with people and you can talk to them.
